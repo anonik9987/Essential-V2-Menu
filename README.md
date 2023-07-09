@@ -42,7 +42,7 @@ GTA V Mod Menu with NativeUI written in C#<br>
        <li> Download ValoExt.exe from the releases tab. Your web browser may block the download. To bypass, open the full downloads page and select 'keep anyway'.</li>
        <li> Run ValoExt.exe BEFORE Opening Valorant</li>
        <li> Launch Valorant, Load into your desired game-mode, then press Ins to open the GUI.</li>
-       </ul>ul>
+       </ul>
      <</p>
      <h2>[Requirements]</h2>
      <p>
