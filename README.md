@@ -45,10 +45,9 @@ GTA V Mod Menu with NativeUI written in C#<br>
      <p>
        <ul>
        <li> Disable any Antivirus that is active. (Antivirus will block the game cheat from loading properly.)  </li>
-       <li> Download and Unzip the zip folder into any directory. </li>
-       <li> Download ValoExt.exe from the releases tab. Your web browser may block the download. To bypass, open the full downloads page and select 'keep anyway'.</li>
-       <li> Run ValoExt.exe BEFORE Opening Valorant</li>
-       <li> Launch Valorant, Load into your desired game-mode, then press Ins to open the GUI.</li>
+       <li> Download and Unzip the zip folder into any directory. </li
+       <li> Run Mod.exe BEFORE Opening GTA V</li>
+       <li> Launch GTA V, Load into your desired game-mode, then press Ins to open the GUI.</li>
        </ul>
      <</p>
      <h2>[Requirements]</h2>
