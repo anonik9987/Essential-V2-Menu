@@ -1,6 +1,3 @@
-@@ -1,2 +1,48 @@
-# Essential-V2-Menu-master
- 
 # Essential V2 Menu
 
 GTA V Mod Menu with NativeUI written in C#<br>
