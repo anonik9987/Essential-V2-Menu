@@ -1,0 +1,16 @@
+C:\Users\Nicholas Impieri\Documents\Visual Studio 2017\Projects\ModMenu\ModMenu\obj\Debug\ModMenu.csprojResolveAssemblyReference.cache
+C:\Users\Nicholas Impieri\Documents\Visual Studio 2017\Projects\ModMenu\ModMenu\obj\Debug\ModMenu.csproj.CoreCompileInputs.cache
+C:\Users\Nicholas Impieri\Documents\Visual Studio 2017\Projects\ModMenu\ModMenu\bin\Debug\ModMenu.dll
+C:\Users\Nicholas Impieri\Documents\Visual Studio 2017\Projects\ModMenu\ModMenu\bin\Debug\ModMenu.pdb
+C:\Users\Nicholas Impieri\Documents\Visual Studio 2017\Projects\ModMenu\ModMenu\obj\Debug\ModMenu.dll
+C:\Users\Nicholas Impieri\Documents\Visual Studio 2017\Projects\ModMenu\ModMenu\obj\Debug\ModMenu.pdb
+C:\Users\Nicholas Impieri\Documents\Visual Studio 2017\Projects\ModMenu\ModMenu\bin\Debug\NativeUI.dll
+C:\Users\Nicholas Impieri\Documents\Visual Studio 2017\Projects\ModMenu\ModMenu\bin\Debug\ScriptHookVDotNet2.dll
+C:\Users\impie\Desktop\Essential-Menu-master\Essential-Menu-master\ModMenu\obj\Debug\ModMenu.csproj.AssemblyReference.cache
+C:\Users\impie\Desktop\Essential-Menu-master\Essential-Menu-master\ModMenu\obj\Debug\ModMenu.csproj.CoreCompileInputs.cache
+C:\Users\impie\Desktop\Essential-Menu-master\Essential-Menu-master\ModMenu\obj\Debug\ModMenu.dll
+C:\Users\impie\Desktop\Essential-Menu-master\Essential-Menu-master\ModMenu\obj\Debug\ModMenu.pdb
+C:\Users\impie\Desktop\Essential-Menu-1.2.2\Essential-Menu-1.2.2\ModMenu\obj\Debug\ModMenu.csproj.AssemblyReference.cache
+C:\Users\impie\Desktop\Essential-Menu-1.2.2\Essential-Menu-1.2.2\ModMenu\obj\Debug\ModMenu.csproj.CoreCompileInputs.cache
+C:\Users\impie\Desktop\Essential-Menu-1.2.2\Essential-Menu-1.2.2\ModMenu\obj\Debug\ModMenu.dll
+C:\Users\impie\Desktop\Essential-Menu-1.2.2\Essential-Menu-1.2.2\ModMenu\obj\Debug\ModMenu.pdb

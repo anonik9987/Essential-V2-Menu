@@ -1,0 +1,167 @@
+Middle Update v1.2.3
+
+*Fixed teleport waypoint
+*Added Money gun
+*Added Explosive Ammo
+*Added Fire Ammo
+*Added Max/Min All cars upgrade options
+*Added Freeze Player and vehicle options
+*Improved Source
+
+
+Major Update v1.2.2
+
+*Fixed Some Bugs
+*Added new Misc Menu
+*Added new Misc Options(delete all peds, delete all vehicle, kill all peds, chaos mode[Beta] ).
+*Added new Player Options (player invisible)
+*Added new Vehicle Options (vehicle invisible)
+*Added Give Player Max Ammo options (Weapons Menu)
+*Added No reload option (infinte ammo in clip) in (Weapons Menu)
+
+
+
+
+
+
+Major Update beta4 v1.2
+
+*Fixed Some Bugs
+*Added new vehicle
+*Added and improved SuperJump,Fust Run and Fast Swim
+*Uptaded Menu Banners
+*Added new Car Autopilot
+*Added new Vehicle doors control
+*Improved source code.
+
+
+
+
+Major Update beta v1.2
+
+*Added some new Game Vision Options
+*Added new credits section
+*Deleted misc options (not usefull)
+*Added SuperJump in player Options
+*Added all shotguns inside the Weapons Options
+*Added new vehicle inside the Vehicle Spawner sections
+*Added new banner for weapons Options
+*Fixed Suicide Options
+*Fixed and improved car spawner
+*Fixed,improved and added new Vehicle godmode
+*Improved Stabilty and Source code
+*Tested with the latest GTA V Update (15/06/2021)
+
+
+
+
+
+
+
+Middle-Uptate build 180
+
+*Added New Game Vision Options [Night-Vision, Thermal Vision]
+*Added New Online Options Category
+*Added New Online Money Drop [Not Working Online for now]
+*Added New Badge on Never Wanted Options
+*Fixed Some Bugs
+*Improved Source Code
+
+
+Big-Update build 170
+
+*Completed The Infinite Ammo Function
+*Added new never wanted function
+*Improved Stability
+*Added new Teleport Options
+
+/////////////////////////////////////////////////////////////////////////////////////////////
+
+*Teleport to:
+++ Waypoint (Marker)
+++ Lester House
+++ Fib Lobby
+++ Pacific Standard Bank
+++ O'Neil Ranch
+++ Online Yatch
+++ Cluckin Bell
+++ Solomon's Office
+++ Floyd House
+++ Bahama Mamas
+++ Lifeinvader
+++ Tequil - la - la
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+*Added the North Yankton Menu
+++ Load and Teleport to the North Yankton Map
+++ Unload the North Yankton Map
+
+*Added new custom banner for the Teleport Menu
+
+
+Minor-Update build 162
+
+*Added New Weather Menu
+*Added Custom Banner for Weather Menu
+*Fixed some Bug
+*Source Code Cleaned
+*Improved UI Experience
+*Improved GUI compatibility
+
+
+minor-update build 161
+
+*Added new Separated Money Menu
+*Added custom-banner for the Money menu
+*Infinite-Ammo (completed at 50%)
+*Preview Image added
+*.ini config file added
+*Code cleaned
+*Improved source
+*Pre-Build folder added
+
+
+Midlle-Update build 160
+
+*Added Money Options
+*Fixed Wanted level bugs
+*Added New Peds to change player skin.
+*Added New Vehicles Menu.
+*Vehicle Fixer added
+*Vehicle spawn Improved
+*Added New Banner's for some categories
+
+
+Minor-Update build 158
+
+*Added new Sub-Categories on Model Changer ("Story Model And Animal Model")
+*Main Uman model moved to Story Model Category
+*Animal moved to Animal Model Category
+*Added new Character
+*Added 4+ Animal peds
+*Improved UI
+*Fixed UI
+*Improved Source Code
+
+
+Minor-Update build 155
+
+*Added new Ped Model
+*Added Sniper Rifle
+*Fixed minor bug
+
+
+Changelog build 150 
+
+[Essential Menu] - [Beta]
+
+*Added new Sub-Menu (Get single Weapon)
+*Added New Weapons
+*Added 3 new Weapons Category (Melee Weapons,HandGuns And Assault Riffle Guns) on (Single Weapon Menu).
+*Added 20+ new Weapons
+*Added new Model on Model Changer
+*Fixed Graphic Glitch with 1440x1080p resolution
+*Improved Source Code
+*Improved UI
+*Fixed Some Bug
